@@ -8,12 +8,10 @@ const TemplatesPage = () => {
       <aside className="sidebar">
         <div className="logo">
           <img
-            src="/assets/logo.png"
+            src="./logo.png"
             alt="LegalEase Logo"
             className="logo-img"
           />
-          <h2>LegalEase</h2>
-          <p className="tagline">Smart Contracts. Simplified.</p>
         </div>
 
         <nav className="sidebar-nav">
@@ -45,7 +43,7 @@ const TemplatesPage = () => {
       <main className="main-content">
         <header className="main-header">
           <img
-            src="https://placehold.co/40x40/0af/fff?text=👤"
+            src="./nova.png"
             alt="user avatar"
             className="profile-pic"
           />
